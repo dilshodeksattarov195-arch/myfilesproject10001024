@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productronnect",
+        "uuid": 2682880,
+        "checksum": "b8has"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
